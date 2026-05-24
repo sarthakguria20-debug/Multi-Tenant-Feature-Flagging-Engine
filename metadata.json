@@ -1,0 +1,6 @@
+{
+  "name": "Feature Flag Engine",
+  "description": "Multi-tenant feature flagging system with real-time SSE propagation and sub-millisecond evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
